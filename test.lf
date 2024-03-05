@@ -1,0 +1,11 @@
+def hello<int>(x: int): void{
+    x: int = 3;
+    return 10 + car.getSpeed(g);
+}
+
+fred: Array[Heap]<int> = Array(3+ 2, hello());
+
+
+class int{
+    
+}
